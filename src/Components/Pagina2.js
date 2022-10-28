@@ -33,7 +33,7 @@ function Pagina2() {
         <div className='center'>
             
         <h1> 
-            Mergi acolo unde romanii vindeau lucruri
+            La ora 15:30 mergi acolo unde romanii vindeau lucruri
         </h1>
         </div>
 

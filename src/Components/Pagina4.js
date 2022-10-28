@@ -9,7 +9,7 @@ function Pagina4() {
 
 
     function textChange(e) {
-        if(e.target.value === 'Casa Ambasadorului Germaniei'){
+        if(e.target.value === 'Ambasadorul germaniei'){
 
             setStyle({border: '5px solid lime', borderRadius: '2px', marginTop: '8%'});
             setButonStatus(false)
@@ -32,7 +32,7 @@ function Pagina4() {
         Nicolae Iorga te duce catre George Severeanu
         <br/>
         <br/>
-        Cine sta vis-a-vis? 
+        Cine locuieste vis-a-vis? 
         </h1>
         </div>
 

@@ -9,7 +9,7 @@ function Pagina3() {
 
 
     function textChange(e) {
-        if(e.target.value === 'Ghost hunters'){
+        if(e.target.value === 'Cafelier'){
 
             setStyle({border: '5px solid lime', borderRadius: '2px', marginTop: '8%'});
             setButonStatus(false)
@@ -30,9 +30,6 @@ function Pagina3() {
             
         <h1> 
         Mergi pe strada Galeriei Romane pana gasesti Atelierul de Cafea 
-        <br/>
-        <br/>
-Cere o cafea si spune "Suntem la vanatoare de fantome"
         </h1>
         </div>
 

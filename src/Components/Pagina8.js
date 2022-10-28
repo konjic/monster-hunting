@@ -14,7 +14,7 @@ function Pagina8() {
         Multe fantome in jur. Lupta-te cu ele. Cand esti gata intra La Local
         <br/>
         <br/>
-        Comanda de mancare si spune "Am fost la vanatoare de fantome"
+        Daca ajungi inseamna ca ai castigat
         </h1>
         </div>
 

@@ -9,7 +9,7 @@ function Pagina7() {
 
 
     function textChange(e) {
-        if(e.target.value === 'SOON'){
+        if(e.target.value === 'Casa lahovary'){
 
             setStyle({border: '5px solid lime', borderRadius: '2px', marginTop: '8%'});
             setButonStatus(false)
@@ -20,7 +20,7 @@ function Pagina7() {
 
     let navigate = useNavigate(); 
     const routeChange = () =>{ 
-      let path = `/pas-8`; 
+      let path = `/pas-7`; 
       navigate(path);
     }
 
@@ -32,7 +32,7 @@ function Pagina7() {
         Lascar Catargiu te duce in Iran
         <br/>
         <br/>
-        Spune-mi istoria vecinului Iranului
+        Casa vecinului
         </h1>
         </div>
 

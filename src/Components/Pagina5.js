@@ -9,7 +9,7 @@ function Pagina5() {
 
 
     function textChange(e) {
-        if(e.target.value === '3 stele'){
+        if(e.target.value === '4 stele'){
 
             setStyle({border: '5px solid lime', borderRadius: '2px', marginTop: '8%'});
             setButonStatus(false)
